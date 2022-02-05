@@ -25,7 +25,7 @@
   
   #### Portfólio
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorHugo0709&repo=Portifolio)](https://github.com/VictorHugo0709/Portifolio)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorHugo0709&repo=Portfolio)](https://github.com/VictorHugo0709/Portfolio)
   
   ##
   
