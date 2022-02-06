@@ -29,7 +29,7 @@
   
   #### Portfólio
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorHugo0709&repo=Portfolio&theme=tokyonight)]()
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorHugo0709&repo=Portfolio&theme=tokyonight)](https://github.com/VictorHugo0709/Portfolio)
   
   ##
   
