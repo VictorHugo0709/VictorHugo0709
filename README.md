@@ -1,1 +1,1 @@
-<img src = 'Banner.read.me.png' align = 'right'>
+<img src = 'Banner.read.me.png'>
