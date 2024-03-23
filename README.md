@@ -1,7 +1,7 @@
 <img src = 'Banner_read.me.png'>
 
 # Seja muito bem vindo(a) ! 🧡
-Estudante de Engenharia de Computação na FMU e entusiasta do mundo da tecnologia !
+Estudante de Engenharia de Computação 2/10 • Itaú Unibanco • Programador • Machine Learning • Inteligência Artificial • Python
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width='40' heigh='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width='40' heigh='40'>&nbsp;
