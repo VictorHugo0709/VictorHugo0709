@@ -13,10 +13,6 @@ Estudante de Engenharia de Computação 2/10 • Itaú Unibanco • Programador 
 
 ---
 
-
-
-
-
 <div align = "center">
 <img height='175em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHugo0709&show_icons=true&theme=gruvbox&count_private=true"/>
 <img height='175em' src="https://github-readme-stats.vercel.app/api?username=VictorHugo0709&show_icons=true&show_icons=true&theme=gruvbox&count_private=true" />
